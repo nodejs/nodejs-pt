@@ -11,7 +11,9 @@ Faça alguma contribuição para o projeto, apenas para sabermos que você tem p
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
 ## Membros
+
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
+* Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
