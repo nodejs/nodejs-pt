@@ -15,13 +15,13 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 
 ## Membros
 
+* Carlos Guedes ([@cguedes](https://github.com/cguedes))
+* Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
-* Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
-* Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
-* Carlos Guedes ([@cguedes](https://github.com/cguedes))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
+* Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 
 ## Redes Sociais
 
