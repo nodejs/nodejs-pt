@@ -22,6 +22,8 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
+* Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
+* Tiago Ribeiro ([@fixe](https://github.com/fixe))
 
 ## Redes Sociais
 
