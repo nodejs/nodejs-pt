@@ -17,3 +17,4 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
+* Carlos Guedes ([@cguedes](https://github.com/cguedes))
