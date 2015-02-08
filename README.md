@@ -16,6 +16,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 ## Membros
 
 * Carlos Guedes ([@cguedes](https://github.com/cguedes))
+* Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
 * Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
