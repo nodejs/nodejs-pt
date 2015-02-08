@@ -10,4 +10,4 @@ Estas issues serão de fácil resolução para novos contribuidores, então fiqu
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
-* Rogério Vicente ([@rogeriopvl](htts://github.com/rogeriopvl))
+* Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
