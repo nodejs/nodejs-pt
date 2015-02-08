@@ -22,6 +22,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
 * Carlos Guedes ([@cguedes](https://github.com/cguedes))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
+* Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
 
 ## Redes Sociais
 
