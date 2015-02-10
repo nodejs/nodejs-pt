@@ -13,6 +13,11 @@ Estas issues serão de fácil resolução para novos contribuidores, então fiqu
 Faça alguma contribuição para o projeto, apenas para sabermos que você tem português correto.  
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
+## Redes Sociais
+
+* [Medium](https://medium.com/@iojs_pt)
+* [Twitter](https://twitter.com/iojs_pt)
+
 ## Membros
 
 * Carlos Guedes ([@cguedes](https://github.com/cguedes))
@@ -25,10 +30,6 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
 * Tiago Ribeiro ([@fixe](https://github.com/fixe))
-
-## Redes Sociais
-
-* [Twitter](https://twitter.com/iojs_pt)
 
 ## The MIT License (MIT)
 
