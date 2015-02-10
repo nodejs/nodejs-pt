@@ -5,7 +5,7 @@
 Internacionalização para português do [io.js](http://iojs.org)
 
 ## Como posso ajudar?
-Basta acessar as issues do projeto e [encontrar alguma issue marcada com o label __ajude__.](https://github.com/iojs/iojs-pt/issues?q=is%3Aopen+is%3Aissue+label%3Aajude)
+Basta acessar as issues do projeto e [encontrar alguma issue marcada com o label __help wanted__.](https://github.com/iojs/iojs-pt/labels/help%20wanted)
 
 Estas issues serão de fácil resolução para novos contribuidores, então fique tranquilo e participe já!
 
