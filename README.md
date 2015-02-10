@@ -13,20 +13,23 @@ Estas issues serão de fácil resolução para novos contribuidores, então fiqu
 Faça alguma contribuição para o projeto, apenas para sabermos que você tem português correto.  
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
+## Redes Sociais
+
+* [Medium](https://medium.com/@iojs_pt)
+* [Twitter](https://twitter.com/iojs_pt)
+
 ## Membros
 
+* Carlos Guedes ([@cguedes](https://github.com/cguedes))
+* Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
+* Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
-* Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
-* Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
-* Carlos Guedes ([@cguedes](https://github.com/cguedes))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
-* Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
-
-## Redes Sociais
-
-* [Twitter](https://twitter.com/iojs_pt)
+* Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
+* Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
+* Tiago Ribeiro ([@fixe](https://github.com/fixe))
 
 ## The MIT License (MIT)
 
