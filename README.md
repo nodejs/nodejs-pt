@@ -24,6 +24,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
 * Eric Douglas ([@ericdouglas](https://github.com/ericdouglas))
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
+* Getulio R. Campos Junior ([@getuliojr] (http://github.com/getuliojr))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
