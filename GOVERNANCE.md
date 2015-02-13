@@ -27,3 +27,9 @@ Os [labels de issues](https://github.com/iojs/iojs-pt/labels) do GitHub tem uma 
   Assuntos relativos à governança da equipe, como este documento, por exemplo.
 * __help wanted__
   Tarefas para novos colaboradores começarem rapidamente a auxiliar com a nossa equipe.
+
+## Atribuição de tarefas
+As [tarefas](https://github.com/iojs/iojs-pt/labels/task) (issues marcadas com o label task) podem ser atribuídas a qualquer usuário da equipe.
+
+Lembre-se de que o GitHub dispõe de uma funcionalidade para isso, conforme demonstrado na imagem abaixo:
+![](http://i.imgur.com/EtCF7cr.png)
