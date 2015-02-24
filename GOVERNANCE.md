@@ -33,3 +33,10 @@ As [tarefas](https://github.com/iojs/iojs-pt/labels/task) (issues marcadas com o
 
 Lembre-se de que o GitHub dispõe de uma funcionalidade para isso, conforme demonstrado na imagem abaixo:
 ![](http://i.imgur.com/EtCF7cr.png)
+
+## Processo de tradução de blog posts
+Os blog posts da nossa comunidade são redigidos na [nossa conta do Medium](https://medium.com/@iojs_pt).Eles devem ser salvos como rascunho e enviados para revisão aqui no nosso repositório do GitHub.  
+
+Para sugerir alguma melhoria no post, selecione um parágrafo ou trecho de texto e faça sua anotação para o autor fazer as devidas melhorias.
+
+Após as melhorias terem sido feitas, a issue deve receber 2 :+1: para ser aprovada e publicada.
