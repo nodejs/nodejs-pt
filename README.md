@@ -28,6 +28,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
+* Jonathan Cardoso Machado ([@jcmais](https://github.com/JCMais))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
 * Samuel Gordalina ([@gordalina](https://github.com/gordalina))
