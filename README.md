@@ -30,6 +30,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
+* Samuel Gordalina ([@gordalina](https://github.com/gordalina))
 * Tiago Ribeiro ([@fixe](https://github.com/fixe))
 
 ## The MIT License (MIT)
