@@ -10,7 +10,7 @@ Basta acessar as issues do projeto e [encontrar alguma issue marcada com o label
 Estas issues serão de fácil resolução para novos contribuidores, então fique tranquilo e participe já!
 
 ## Como posso participar da equipe io.js em português?
-Faça alguma contribuição para o projeto, apenas para sabermos que você tem português correto.  
+Faça alguma contribuição para o projeto, apenas para sabermos que você tem português correto.
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
 ## Redes Sociais
@@ -32,6 +32,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Jonathan Cardoso Machado ([@jcmais](https://github.com/JCMais))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
+* Rui Quelhas ([@ruiquelhas](https://github.com/ruiquelhas))
 * Samuel Gordalina ([@gordalina](https://github.com/gordalina))
 * Tiago Ribeiro ([@fixe](https://github.com/fixe))
 
