@@ -32,9 +32,9 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Jonathan Cardoso Machado ([@jcmais](https://github.com/JCMais))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
+* Rui Quelhas ([@ruiquelhas](https://github.com/ruiquelhas))
 * Samuel Gordalina ([@gordalina](https://github.com/gordalina))
 * Tiago Ribeiro ([@fixe](https://github.com/fixe))
-* Rui Quelhas ([@ruiquelhas](https://github.com/ruiquelhas))
 
 ## The MIT License (MIT)
 
