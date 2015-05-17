@@ -30,6 +30,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * João Carmona ([@jpcarmona](https://github.com/jpcarmona))
 * Jonathan Cardoso Machado ([@jcmais](https://github.com/JCMais))
+* Ricardo Torres ([@rictorres](https://github.com/rictorres))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
 * Rui Marinho ([@ruimarinho](https://github.com/ruimarinho))
 * Rui Quelhas ([@ruiquelhas](https://github.com/ruiquelhas))
