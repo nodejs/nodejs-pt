@@ -28,7 +28,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Glauber Silva ([@glauber] (http://github.com/glauber))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
-* João Carmona ([@jpcarmona](https://github.com/jpcarmona))
+* João Carmona ([@jpsc](https://github.com/jpsc))
 * Jonathan Cardoso Machado ([@jcmais](https://github.com/JCMais))
 * Ricardo Torres ([@rictorres](https://github.com/rictorres))
 * Rogério Vicente ([@rogeriopvl](https://github.com/rogeriopvl))
