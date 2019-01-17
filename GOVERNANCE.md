@@ -1,4 +1,4 @@
-# Governança da Equipe nodejs em Português
+# Governança da Equipe Node.js em Português
 
 Para que a nossa equipe funcione, algumas regras de governança são necessárias. Elas estão enumeradas aqui para facilitar aos novos colaboradores (e mesmo aos antigos).
 
