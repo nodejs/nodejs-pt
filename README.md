@@ -29,7 +29,7 @@ Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar
 * Erick Patrick ([@erickpatrick](http://github.com/erickpatrick))
 * Getulio R. Campos Junior ([@getuliojr](http://github.com/getuliojr))
 * Glauber Silva ([@glauber](http://github.com/glauber))
-* Glaucia Lemos ([@glaucia86])(https://github.com/glaucia86))
+* Glaucia Lemos ([@glaucia86](https://github.com/glaucia86))
 * Guilherme J. Tramontina ([@gtramontina](https://github.com/gtramontina))
 * Gustavo Henke ([@gustavohenke](https://github.com/gustavohenke))
 * João Carmona ([@jpsc](https://github.com/jpsc))
