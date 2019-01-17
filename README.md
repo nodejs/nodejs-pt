@@ -10,10 +10,12 @@ Bastam acessar as **[issues](https://github.com/nodejs/nodejs-pt/issues)** do pr
 
 Estas issues serão de fácil resolução para novos contribuidores. Então fique tranquilo e participe já!
 
-## Como Posso Participar da Equipe nodejs em Português?
+## Como Posso Participar da Equipe Node.js em Português?
 
 Faça alguma contribuição para o projeto, apenas para sabermos que você possui o português correto.
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
+
+Caso seja aprovado é de suma importância seguir todos os detalhes descritos no arquivo **[GOVERNANCE.MD](GOVERNANCE.MD)**
 
 ## Redes Sociais
 
