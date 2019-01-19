@@ -1,7 +1,7 @@
 # NODEJS PT-BR
 
 [![Join the chat at https://gitter.im/iojs/iojs-pt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-pt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![All Contributors](https://img.shields.io/github/contributors/nodejs-pt/StrapDown.js.svg)](#membros)
+[![All Contributors](https://img.shields.io/github/contributors/nodejs/nodejs-pt/StrapDown.js.svg)](#membros)
 
 Comunidade responsável por realizar as traduções e internacionalização do site **[nodejs.org](http://nodejs.org)**
 
