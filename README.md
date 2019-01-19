@@ -1,8 +1,20 @@
-# nodejs-pt
+# NODEJS PT-BR
 
 [![Join the chat at https://gitter.im/iojs/iojs-pt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-pt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Comunidade responsável por realizar as traduções e internacionalização do site **[Nodejs.org](http://nodejs.org)**
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#membros)
+
+Comunidade responsável por realizar as traduções e internacionalização do site **[nodejs.org](http://nodejs.org)**
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img
+      alt="Node.js"
+      src="https://nodejs.org/static/images/logo-light.svg"
+      width="400"
+    />
+  </a>
+</p>
 
 ## Como Posso Ajudar?
 
