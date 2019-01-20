@@ -1,4 +1,4 @@
-# NODEJS EM PORTUGUÉS
+# NODEJS EM PORTUGUÊS
 
 [![Join the chat at https://gitter.im/iojs/iojs-pt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-pt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![All Contributors](https://img.shields.io/badge/all_contributors-orange.svg?style=flat-square)](#membros)
