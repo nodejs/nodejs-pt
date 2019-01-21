@@ -26,7 +26,8 @@ Estas issues serão de fácil resolução para novos contribuidores. Então fiqu
 Faça alguma contribuição para o projeto, apenas para sabermos que você possui o português correto.
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
-Caso seja aprovado é de suma importância seguir todos os detalhes descritos no arquivo **[GOVERNANCE.MD](GOVERNANCE.MD)**
+Caso seja aprovado é de suma importância seguir todos os detalhes descritos no arquivo **[GOVERNANCE.MD](https://github.com/nodejs/nodejs-pt/blob/master/GOVERNANCE.md)**
+
 
 ## Redes Sociais
 
