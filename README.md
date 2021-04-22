@@ -17,9 +17,7 @@ Comunidade responsável por realizar as traduções e internacionalização do s
 
 ## Como Posso Ajudar?
 
-Bastam acessar as **[issues](https://github.com/nodejs/nodejs-pt/issues)** do projeto e [encontrar alguma issue marcada com o label __help wanted__.](https://github.com/iojs/iojs-pt/labels/help%20wanted)
-
-Estas issues serão de fácil resolução para novos contribuidores. Então fique tranquilo e participe já!
+O processo de tradução não está mais utilizando o modelo que estávamos usando de criação de issues, agora estamos trabalhando no modelo do CROWDIN, como descrito [nesta documentação](https://github.com/nodejs/i18n/blob/master/guides/CROWDIN.md).
 
 ## Como Posso Participar da Equipe Node.js em Português?
 
@@ -27,7 +25,6 @@ Faça alguma contribuição para o projeto, apenas para sabermos que você possu
 Em seguida, fale com [alguém que já é da equipe](#membros) para lhe adicionar!
 
 Caso seja aprovado é de suma importância seguir todos os detalhes descritos no arquivo **[GOVERNANCE.MD](https://github.com/nodejs/nodejs-pt/blob/master/GOVERNANCE.md)**
-
 
 ## Redes Sociais
 
